@@ -1,6 +1,6 @@
 package javapractic;
 
-public class Lec_01 {
+public class Lec_02 {
 
 	public static void main(String[] args) {
 		
